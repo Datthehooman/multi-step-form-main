@@ -13,6 +13,10 @@
   --color-purple-200: hsl(229, 24%, 87%);
   --color-blue-100: hsl(218, 100%, 97%);
   --color-blue-50: hsl(231, 100%, 99%);
+
+  /* Breakpoints */
+  --breakpoint-mobile: 375px;
+  --breakpoint-desktop: 1440px;
 }
 
 @theme inline {
